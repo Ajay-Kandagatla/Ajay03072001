@@ -1,3 +1,4 @@
+![logo](https://github.com/Ajay-Kandagatla/Ajay03072001/blob/main/Banner%20for%20Git-hub.jpg)
 <h3 align="center">A passionate Data Science And Analysis from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-kandagatla&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-kandagatla" /> </p>
